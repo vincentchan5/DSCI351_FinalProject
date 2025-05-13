@@ -1,0 +1,5 @@
+openai
+pymysql
+pymongo
+pandas
+python-dotenv
